@@ -4,8 +4,8 @@
 
 <p align="center">
 
-![Syntax Media Banner](/img/syntax-media-dark.png#gh-dark-mode-only)
-![Syntax Media Banner](/img/syntax-media-light.png#gh-light-mode-only)
+![Syntax Media Banner](https://github.com/user-attachments/assets/18deb1ff-9bdd-4ed2-ace5-dbae8c8a760c#gh-dark-mode-only)
+![Syntax Media Banner](https://github.com/user-attachments/assets/3ff08f67-d083-41ff-87cb-3cca22860b16#gh-light-mode-only)
 
 </p>
 
