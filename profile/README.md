@@ -4,8 +4,8 @@
 
 <p align="center">
 
-![Syntax Media Banner](https://github.com/user-attachments/assets/b909857c-dd34-4291-9a0b-fbc0c1046aa1#gh-dark-mode-only)
-![Syntax Media Banner](https://github.com/user-attachments/assets/7b84b125-a2fa-40f5-a23e-9d33c0034720#gh-light-mode-only)
+![rebase media Banner](https://github.com/user-attachments/assets/b909857c-dd34-4291-9a0b-fbc0c1046aa1#gh-dark-mode-only)
+![rebase media Banner](https://github.com/user-attachments/assets/7b84b125-a2fa-40f5-a23e-9d33c0034720#gh-light-mode-only)
 
 </p>
 
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-[<kbd> <br> <b> Twitter (X) </b> <br> </kbd>](https://x.com/rebasemedia) &nbsp; [<kbd> <br> <b> LinkedIn </b> <br> </kbd>](https://www.linkedin.com/company/rebasemedia) &nbsp; [<kbd> <br> <b> Our Services </b> <br> </kbd>](https://services.pradumnasaraf.dev/)
+[<kbd> <br> <b> Twitter (X) </b> <br> </kbd>](https://x.com/rebasemedia) &nbsp; [<kbd> <br> <b> LinkedIn </b> <br> </kbd>](https://www.linkedin.com/company/rebasemedia) &nbsp; [<kbd> <br> <b> Our Services </b> <br> </kbd>](https://services.pradumnasaraf.dev)
 
 </div>
 
