@@ -1,15 +1,15 @@
 <div align="center">
-    <h1>Welcome to Syntax Media</h1>
+    <h1>Welcome to rebase media</h1>
 </div>
 
 <p align="center">
 
-![Syntax Media Banner](https://github.com/user-attachments/assets/18deb1ff-9bdd-4ed2-ace5-dbae8c8a760c#gh-dark-mode-only)
-![Syntax Media Banner](https://github.com/user-attachments/assets/3ff08f67-d083-41ff-87cb-3cca22860b16#gh-light-mode-only)
+![Syntax Media Banner](https://github.com/user-attachments/assets/b909857c-dd34-4291-9a0b-fbc0c1046aa1#gh-dark-mode-only)
+![Syntax Media Banner](https://github.com/user-attachments/assets/7b84b125-a2fa-40f5-a23e-9d33c0034720#gh-light-mode-only)
 
 </p>
 
-<p align="center"> At <b>Syntax Media</b>, we help startups and open source projects grow organically, build a user base, and nurture community through curated technical content and content strategies tailored to their products. We provide services including: </p>
+<p align="center"> At <b>rebase media</b>, we help startups and open source projects grow organically, build a user base, and nurture community through curated technical content and content strategies tailored to their products. We provide services including: </p>
 
 - DevRel As A Service
 - Creating short-form content in the form of social media posts.
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-[<kbd> <br> <b> Twitter </b> <br> </kbd>](https://x.com/syntaxmedia_) &nbsp; [<kbd> <br> <b> LinkedIn </b> <br> </kbd>](https://www.linkedin.com/company/syntaxmedia) &nbsp; [<kbd> <br> <b> Our Services </b> <br> </kbd>](https://services.pradumnasaraf.dev/)
+[<kbd> <br> <b> Twitter (X) </b> <br> </kbd>](https://x.com/rebasemedia) &nbsp; [<kbd> <br> <b> LinkedIn </b> <br> </kbd>](https://www.linkedin.com/company/rebasemedia) &nbsp; [<kbd> <br> <b> Our Services </b> <br> </kbd>](https://services.pradumnasaraf.dev/)
 
 </div>
 
