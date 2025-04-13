@@ -14,4 +14,4 @@ At **rebase media**, we help startups and open source projects grow organically,
 
 - [LinkedIn](https://www.linkedin.com/company/rebasemedia)
 - [Twitter](https://x.com/rebasemedia)
-- [Our Services](https://services.pradumnasaraf.dev)
+- [Our Services](https://rebasemedia.com)
