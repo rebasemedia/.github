@@ -19,7 +19,7 @@
 
 <div align="center">
 
-[<kbd> <br> <b> Twitter (X) </b> <br> </kbd>](https://x.com/rebasemedia) &nbsp; [<kbd> <br> <b> LinkedIn </b> <br> </kbd>](https://www.linkedin.com/company/rebasemedia) &nbsp; [<kbd> <br> <b> Our Services </b> <br> </kbd>](https://services.pradumnasaraf.dev)
+[<kbd> <br> <b> Twitter (X) </b> <br> </kbd>](https://x.com/rebasemedia) &nbsp; [<kbd> <br> <b> LinkedIn </b> <br> </kbd>](https://www.linkedin.com/company/rebasemedia) &nbsp; [<kbd> <br> <b> Our Services </b> <br> </kbd>](https://rebasemedia.com)
 
 </div>
 
