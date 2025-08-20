@@ -4,7 +4,7 @@
 
 <p align="center">
 
-![rebase media Banner](https://github.com/user-attachments/assets/05ae82c9-fffa-4b2c-bcb0-9a4be0c4a449)
+![rebase media Banner](../media/rebase-media-github-banner.png)
 
 </p>
 
